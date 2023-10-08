@@ -181,12 +181,6 @@ $ sudo pip3 install pycrypto pyserial --user
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-<div id="copycode" style="display: none;">
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-</div>
-
-<button onclick="copycode(this.id)">코드 복사</button>
-
 그 후 Homebrew가 잘 설치되었는지 확인하기 위해 다음 명령어를 실행하여 `wget`을 설치해본다.
 
 ```bash
