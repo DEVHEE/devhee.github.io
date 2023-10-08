@@ -1,6 +1,6 @@
 ---
 title: Information Technology / [Hardware] 1. Expression of Information
-author: DEVHEE
+author: kimdonghee
 date: 2021-05-11 09:16:07 +0900
 categories: [Computer Engineering, Information Technology]
 tags: [computer engineering, information technology, hardware, information, ascii, euc, unicode]

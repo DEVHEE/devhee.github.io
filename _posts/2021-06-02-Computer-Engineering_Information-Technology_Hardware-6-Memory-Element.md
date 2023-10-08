@@ -1,6 +1,6 @@
 ---
 title: Information Technology / [Hardware] 6. Memory Element
-author: DEVHEE
+author: kimdonghee
 date: 2021-06-02 22:36:08 +0900
 categories: [Computer Engineering, Information Technology]
 tags: [computer engineering, information technology, hardware, memory, disk cache, write back, write through, semiconductor]

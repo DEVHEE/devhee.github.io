@@ -1,6 +1,6 @@
 ---
 title: etc / Intel 또는 M1 맥에서 모네로(Monero) 암호화폐 채굴하기
-author: DEVHEE
+author: kimdonghee
 date: 2021-05-18 09:40:16 +0900
 categories: [Programs, etc]
 tags: [program, coding, mining, monero, xmr, cryptocurrency, intel, m1, mac, moneroocean]

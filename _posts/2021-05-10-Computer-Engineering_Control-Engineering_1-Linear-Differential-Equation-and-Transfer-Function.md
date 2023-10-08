@@ -1,6 +1,6 @@
 ---
 title: Control Engineering / 1. Linear Differential Equation and Transfer Function
-author: DEVHEE
+author: kimdonghee
 date: 2021-05-10 12:01:49 +0900
 categories: [Computer Engineering, Control Engineering]
 tags: [computer engineering, control engineering, linear differential equation, transfer function, artificial intelligence]

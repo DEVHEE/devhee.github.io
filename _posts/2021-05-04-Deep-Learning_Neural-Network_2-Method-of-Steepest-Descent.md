@@ -1,6 +1,6 @@
 ---
 title: Neural Network Basic /  2. Method of Steepest Descent
-author: DEVHEE
+author: kimdonghee
 date: 2021-05-04 12:19:29 +0900
 categories: [Deep Learning, Neural Network]
 tags: [deep learning, neural network, steepest descent, laplace's method, parameter, artificial intelligence]

@@ -1,6 +1,6 @@
 ---
 title: Neural Network Basic / 4. Perceptron
-author: DEVHEE
+author: kimdonghee
 date: 2021-05-07 13:29:11 +0900
 categories: [Deep Learning, Neural Network]
 tags: [deep learning, neural network, perceptron, logistic function, artificial intelligence]

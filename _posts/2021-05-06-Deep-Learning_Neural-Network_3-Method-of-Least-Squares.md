@@ -1,6 +1,6 @@
 ---
 title: Neural Network Basic /  3. Method of Least Squares
-author: DEVHEE
+author: kimdonghee
 date: 2021-05-06 17:16:54 +0900
 categories: [Deep Learning, Neural Network]
 tags: [deep learning, neural network, least xquares, prediction, artificial intelligence]

@@ -1,6 +1,6 @@
 ---
 title: Robotics / 조직에 적합한 로봇 암 선택하기
-author: DEVHEE
+author: kimdonghee
 date: 2021-12-30 19:23:29 +0900
 categories: [Mechatronics, Robotics]
 tags: [mechatronics, robotics, electronics, robot, arm]

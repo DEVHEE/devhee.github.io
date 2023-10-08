@@ -1,6 +1,6 @@
 ---
 title: 地球温暖化の問題点およびその解決法
-author: DEVHEE
+author: kimdonghee
 date: 2021-08-05 00:11:17 +0900
 categories: [Essay, Japanese]
 tags: [global warming]

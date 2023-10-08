@@ -1,6 +1,6 @@
 ---
 title: AI / TensorFlow Lite for Microcontrollers - 2. 사전준비
-author: DEVHEE
+author: kimdonghee
 date: 2021-06-23 12:17:52 +0900
 categories: [Projects, AI]
 tags: [project, ai, tensorflow, tensorflow lite, microcontroller, mcu, arduino, sparkfun, google, tinyml]

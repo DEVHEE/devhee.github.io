@@ -1,6 +1,6 @@
 ---
 title: Utility / Auto Participate in Zoom (자동 줌 수업 참여 파이썬 프로그램)
-author: DEVHEE
+author: kimdonghee
 date: 2021-05-12 23:43:15 +0900
 categories: [Programs, Utility]
 tags: [program, coding, python, zoom]

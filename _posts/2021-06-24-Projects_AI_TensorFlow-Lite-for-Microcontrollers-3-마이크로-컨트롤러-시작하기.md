@@ -1,6 +1,6 @@
 ---
 title: AI / TensorFlow Lite for Microcontrollers - 3. 마이크로 컨트롤러 시작하기
-author: DEVHEE
+author: kimdonghee
 date: 2021-06-24 23:01:27 +0900
 categories: [Projects, AI]
 tags: [project, ai, tensorflow, tensorflow lite, microcontroller, mcu, arduino, sparkfun, google, tinyml]

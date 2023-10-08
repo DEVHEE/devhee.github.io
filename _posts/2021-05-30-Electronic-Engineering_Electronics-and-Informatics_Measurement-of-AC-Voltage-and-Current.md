@@ -1,6 +1,6 @@
 ---
 title: Electronics and Informatics / Measurement of AC Voltage and Current
-author: DEVHEE
+author: kimdonghee
 date: 2021-05-30 23:23:26 +0900
 categories: [Electronic Engineering, Electronics and Informatics]
 tags: [electronic engineering, electronics, informatics, ac, voltage, current]

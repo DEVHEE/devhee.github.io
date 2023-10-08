@@ -1,6 +1,6 @@
 ---
 title: Robot / AI Robot Hand with Raspberry Pi - 3. 하드웨어 연구
-author: DEVHEE
+author: kimdonghee
 date: 2021-09-11 03:41:07 +0900
 categories: [Projects, Robot]
 tags: [project, robot, ai, opencv, computer vision, raspberry pi, python]

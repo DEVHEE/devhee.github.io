@@ -1,6 +1,6 @@
 ---
 title: Neural Network Basic / 5. ADALINE
-author: DEVHEE
+author: kimdonghee
 date: 2021-05-07 16:19:38 +0900
 categories: [Deep Learning, Neural Network]
 tags: [deep learning, neural network, adaline, recognize, parameter, artificial intelligence]

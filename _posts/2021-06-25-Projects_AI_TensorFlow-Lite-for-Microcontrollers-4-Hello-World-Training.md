@@ -1,6 +1,6 @@
 ---
 title: AI / TensorFlow Lite for Microcontrollers - 4. Hello World Training
-author: DEVHEE
+author: kimdonghee
 date: 2021-06-25 18:25:17 +0900
 categories: [Projects, AI]
 tags: [project, ai, tensorflow, tensorflow lite, microcontroller, mcu, arduino, sparkfun, google, tinyml]

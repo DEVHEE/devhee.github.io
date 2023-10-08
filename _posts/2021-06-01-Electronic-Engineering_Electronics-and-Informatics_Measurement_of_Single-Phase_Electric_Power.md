@@ -1,6 +1,6 @@
 ---
 title: Electronics and Informatics / Measurement of Single-Phase Electric Power
-author: DEVHEE
+author: kimdonghee
 date: 2021-06-01 23:59:31 +0900
 categories: [Electronic Engineering, Electronics and Informatics]
 tags: [electronic engineering, electronics, informatics, single-phase, power]

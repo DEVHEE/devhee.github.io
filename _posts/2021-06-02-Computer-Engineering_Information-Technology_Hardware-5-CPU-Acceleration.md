@@ -1,6 +1,6 @@
 ---
 title: Information Technology / [Hardware] 5. CPU Acceleration
-author: DEVHEE
+author: kimdonghee
 date: 2021-06-02 22:03:12 +0900
 categories: [Computer Engineering, Information Technology]
 tags: [computer engineering, information technology, hardware, cpu, acceleration, sequential control, pipeline processing, super pipeline, superscalar, multi-core processor, gpu]

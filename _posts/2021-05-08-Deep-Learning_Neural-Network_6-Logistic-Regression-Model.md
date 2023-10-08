@@ -1,6 +1,6 @@
 ---
 title: Neural Network Basic / 6. Logistic Regression Model
-author: DEVHEE
+author: kimdonghee
 date: 2021-05-08 11:52:20 +0900
 categories: [Deep Learning, Neural Network]
 tags: [deep learning, neural network, logistic regression, artificial intelligence]

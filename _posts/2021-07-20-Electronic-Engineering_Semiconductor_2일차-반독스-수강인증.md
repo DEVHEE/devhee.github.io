@@ -1,6 +1,6 @@
 ---
 title: Semiconductor / [2일차] 반독스 수강인증
-author: DEVHEE
+author: kimdonghee
 date: 2021-07-20 21:56:17 +0900
 categories: [Electronic Engineering, Semiconductor]
 tags: [electronic engineering, semiconductor]

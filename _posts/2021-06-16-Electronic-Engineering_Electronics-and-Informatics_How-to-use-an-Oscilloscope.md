@@ -1,6 +1,6 @@
 ---
 title: Electronics and Informatics / How to use an Oscilloscope
-author: DEVHEE
+author: kimdonghee
 date: 2021-06-16 19:08:01 +0900
 categories: [Electronic Engineering, Electronics and Informatics]
 tags: [electronic engineering, electronics, informatics, oscilloscope]

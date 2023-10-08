@@ -1,6 +1,6 @@
 ---
 title: Electronics and Informatics / Characteristics of Sensors (Thermistor)
-author: DEVHEE
+author: kimdonghee
 date: 2021-11-13 14:50:17 +0900
 categories: [Electronic Engineering, Electronics and Informatics]
 tags: [electronic engineering, electronics, informatics, sensor, thermistor]

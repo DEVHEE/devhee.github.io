@@ -1,6 +1,6 @@
 ---
 title: Information Technology / [Hardware] 2. Five Units of Computer
-author: DEVHEE
+author: kimdonghee
 date: 2021-05-11 10:05:47 +0900
 categories: [Computer Engineering, Information Technology]
 tags: [computer engineering, information technology, hardware, computer, cpu, software, control, arithmetic logic, memory, input, output]

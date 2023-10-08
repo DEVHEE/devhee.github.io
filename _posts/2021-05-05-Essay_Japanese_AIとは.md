@@ -1,6 +1,6 @@
 ---
 title: AI(人工知能; Artificial Intelligence)とは
-author: DEVHEE
+author: kimdonghee
 date: 2021-05-05 14:01:39 +0900
 categories: [Essay, Japanese]
 tags: [ai, artificial intelligence]

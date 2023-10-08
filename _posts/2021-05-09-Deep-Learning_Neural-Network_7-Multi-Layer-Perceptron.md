@@ -1,6 +1,6 @@
 ---
 title: Neural Network Basic / 7. Multi-Layer Perceptron
-author: DEVHEE
+author: kimdonghee
 date: 2021-05-09 09:24:18 +0900
 categories: [Deep Learning, Neural Network]
 tags: [deep learning, neural network, multi-layer perceptron, artificial intelligence]

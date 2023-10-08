@@ -1,6 +1,6 @@
 ---
 title: Information Technology / [Hardware] 4. Adddressing
-author: DEVHEE
+author: kimdonghee
 date: 2021-05-12 17:41:12 +0900
 categories: [Computer Engineering, Information Technology]
 tags: [computer engineering, information technology, hardware, addressing, operation]

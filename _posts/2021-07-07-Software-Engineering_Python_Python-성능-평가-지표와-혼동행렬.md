@@ -1,6 +1,6 @@
 ---
 title: Python / Python 성능 평가 지표와 혼동행렬
-author: DEVHEE
+author: kimdonghee
 date: 2021-07-07 01:15:18 +0900
 categories: [Software Engineering, Python]
 tags: [software engineering, software, python, regression, performance, measure]

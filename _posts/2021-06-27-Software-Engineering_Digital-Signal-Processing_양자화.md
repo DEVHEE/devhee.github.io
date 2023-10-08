@@ -1,6 +1,6 @@
 ---
 title: Digital Signal Processing / 양자화
-author: DEVHEE
+author: kimdonghee
 date: 2021-06-27 10 01:06:28 +0900
 categories: [Software Engineering, Digital Signal Processing]
 tags: [software engineering, software, digital, signal, processing, digital signal processing, quantization]
