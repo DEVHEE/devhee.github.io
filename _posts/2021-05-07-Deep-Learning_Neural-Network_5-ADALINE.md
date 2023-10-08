@@ -6,7 +6,7 @@ categories: [Deep Learning, Neural Network]
 tags: [deep learning, neural network, adaline, recognize, parameter, artificial intelligence]
 math: true
 image:
-    src: /assets/img/posts/2021-05-07-Deep-Learning_Neural-Network_5-ADALINE/preview.jpg
+    path: /assets/img/posts/2021-05-07-Deep-Learning_Neural-Network_5-ADALINE/preview.jpg
 ---
 
 <div style="border:1px solid; padding:10px; margin-bottom: 20px; width: 100%; text-align: center;">

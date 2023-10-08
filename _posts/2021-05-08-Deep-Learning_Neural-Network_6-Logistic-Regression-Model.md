@@ -6,7 +6,7 @@ categories: [Deep Learning, Neural Network]
 tags: [deep learning, neural network, logistic regression, artificial intelligence]
 math: true
 image:
-    src: /assets/img/posts/2021-05-08-Deep-Learning_Neural-Network_6-Logistic-Regression-Model/preview.jpg
+    path: /assets/img/posts/2021-05-08-Deep-Learning_Neural-Network_6-Logistic-Regression-Model/preview.jpg
 ---
 
 <div style="border:1px solid; padding:10px; margin-bottom: 20px; width: 100%; text-align: center;">

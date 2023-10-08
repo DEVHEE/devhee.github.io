@@ -6,7 +6,7 @@ categories: [Projects, AI]
 tags: [project, ai, tensorflow, tensorflow lite, microcontroller, mcu, arduino, sparkfun, google, tinyml]
 math: true
 image:
-    src: /assets/img/posts/2021-06-24-Projects_AI_TensorFlow-Lite-for-Microcontrollers-3-마이크로-컨트롤러-시작하기/preview.png
+    path: /assets/img/posts/2021-06-24-Projects_AI_TensorFlow-Lite-for-Microcontrollers-3-마이크로-컨트롤러-시작하기/preview.png
 ---
 
 ![Preview_2](/assets/img/posts/2021-06-24-Projects_AI_TensorFlow-Lite-for-Microcontrollers-3-마이크로-컨트롤러-시작하기/preview_2.gif)

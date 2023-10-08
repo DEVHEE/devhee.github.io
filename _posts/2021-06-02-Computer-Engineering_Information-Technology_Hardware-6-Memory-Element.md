@@ -6,7 +6,7 @@ categories: [Computer Engineering, Information Technology]
 tags: [computer engineering, information technology, hardware, memory, disk cache, write back, write through, semiconductor]
 math: true
 image:
-    src: /assets/img/posts/2021-06-02-Computer-Engineering_Information-Technology_Hardware-6-Memory-Element/preview.jpg
+    path: /assets/img/posts/2021-06-02-Computer-Engineering_Information-Technology_Hardware-6-Memory-Element/preview.jpg
 ---
 
 <div style="border:1px solid; padding:10px; margin-bottom: 20px; width: 100%; text-align: center;">

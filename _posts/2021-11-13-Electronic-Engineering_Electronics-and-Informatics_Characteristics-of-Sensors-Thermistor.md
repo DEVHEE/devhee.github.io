@@ -6,7 +6,7 @@ categories: [Electronic Engineering, Electronics and Informatics]
 tags: [electronic engineering, electronics, informatics, sensor, thermistor]
 math: true
 image:
-    src: /assets/img/posts/2021-11-13-Electronic-Engineering_Electronics-and-Informatics_Characteristics-of-Sensors-Thermistor/preview.jpeg
+    path: /assets/img/posts/2021-11-13-Electronic-Engineering_Electronics-and-Informatics_Characteristics-of-Sensors-Thermistor/preview.jpeg
 ---
 
 <div style="border:1px solid; padding:10px; margin-bottom: 20px; width: 100%; text-align: center;">

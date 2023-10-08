@@ -6,7 +6,7 @@ categories: [Deep Learning, Neural Network]
 tags: [deep learning, neural network, multi-layer perceptron, artificial intelligence]
 math: true
 image:
-    src: /assets/img/posts/2021-05-09-Deep-Learning_Neural-Network_7-Multi-Layer-Perceptron/preview.jpg
+    path: /assets/img/posts/2021-05-09-Deep-Learning_Neural-Network_7-Multi-Layer-Perceptron/preview.jpg
 ---
 
 <div style="border:1px solid; padding:10px; margin-bottom: 20px; width: 100%; text-align: center;">

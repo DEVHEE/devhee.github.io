@@ -6,7 +6,7 @@ categories: [Projects, Robot]
 tags: [project, robot, ai, opencv, computer vision, raspberry pi, python]
 math: true
 image:
-    src: /assets/img/posts/2021-09-10-Projects_Robot_AI-Robot-Hand-with-Raspberry-Pi-2-전자제어-연구/preview.jpeg
+    path: /assets/img/posts/2021-09-10-Projects_Robot_AI-Robot-Hand-with-Raspberry-Pi-2-전자제어-연구/preview.jpeg
 ---
 
 # **모터의 종류**

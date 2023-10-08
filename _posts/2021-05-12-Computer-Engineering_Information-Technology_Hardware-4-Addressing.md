@@ -6,7 +6,7 @@ categories: [Computer Engineering, Information Technology]
 tags: [computer engineering, information technology, hardware, addressing, operation]
 math: true
 image:
-    src: /assets/img/posts/2021-05-12-Computer-Engineering_Information-Technology_Hardware-4-Addressing/preview.jpg
+    path: /assets/img/posts/2021-05-12-Computer-Engineering_Information-Technology_Hardware-4-Addressing/preview.jpg
 ---
 
 <div style="border:1px solid; padding:10px; margin-bottom: 20px; width: 100%; text-align: center;">

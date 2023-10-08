@@ -7,7 +7,7 @@ tags: [software engineering, software, digital, signal, processing, digital sign
 math: true
 mermaid: true
 image:
-    src: /assets/img/posts/2021-06-27-Software-Engineering_Digital-Signal-Processing_양자화/preview.jpg
+    path: /assets/img/posts/2021-06-27-Software-Engineering_Digital-Signal-Processing_양자화/preview.jpg
 ---
 
 <div style="border:1px solid; padding:10px; margin-bottom: 20px; width: 100%; text-align: center;">

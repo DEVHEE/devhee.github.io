@@ -6,7 +6,7 @@ categories: [Computer Engineering, Control Engineering]
 tags: [computer engineering, control engineering, linear differential equation, transfer function, artificial intelligence]
 math: true
 image:
-    src: /assets/img/posts/2021-05-10-Computer-Engineering_Control-Engineering_1-Linear-Differential-Equation-and-Transfer-Function/preview.jpg
+    path: /assets/img/posts/2021-05-10-Computer-Engineering_Control-Engineering_1-Linear-Differential-Equation-and-Transfer-Function/preview.jpg
 ---
 
 <div style="border:1px solid; padding:10px; margin-bottom: 20px; width: 100%; text-align: center;">

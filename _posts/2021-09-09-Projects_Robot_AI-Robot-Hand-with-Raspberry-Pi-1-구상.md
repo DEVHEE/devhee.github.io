@@ -6,7 +6,7 @@ categories: [Projects, Robot]
 tags: [project, robot, ai, opencv, computer vision, raspberry pi, python]
 math: true
 image:
-    src: /assets/img/posts/2021-09-09-Projects_Robot_AI-Robot-Hand-with-Raspberry-Pi-1-구상/preview.jpeg
+    path: /assets/img/posts/2021-09-09-Projects_Robot_AI-Robot-Hand-with-Raspberry-Pi-1-구상/preview.jpeg
 ---
 
 # **개요**

@@ -6,7 +6,7 @@ categories: [Computer Engineering, Information Technology]
 tags: [computer engineering, information technology, hardware, cpu, acceleration, sequential control, pipeline processing, super pipeline, superscalar, multi-core processor, gpu]
 math: true
 image:
-    src: /assets/img/posts/2021-06-02-Computer-Engineering_Information-Technology_Hardware-5-CPU-Acceleration/preview.jpg
+    path: /assets/img/posts/2021-06-02-Computer-Engineering_Information-Technology_Hardware-5-CPU-Acceleration/preview.jpg
 ---
 
 <div style="border:1px solid; padding:10px; margin-bottom: 20px; width: 100%; text-align: center;">

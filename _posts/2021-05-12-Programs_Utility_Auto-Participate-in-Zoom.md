@@ -5,7 +5,7 @@ date: 2021-05-12 23:43:15 +0900
 categories: [Programs, Utility]
 tags: [program, coding, python, zoom]
 image:
-    src: /assets/img/posts/2021-05-12-Programs_Utility_Auto-Participate-in-Zoom/preview.png
+    path: /assets/img/posts/2021-05-12-Programs_Utility_Auto-Participate-in-Zoom/preview.png
 ---
 
 # **1. 개발 동기**

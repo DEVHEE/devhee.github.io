@@ -7,7 +7,7 @@ tags: [deep learning, neural network, perceptron, logistic function, artificial 
 math: true
 mermaid: true
 image:
-    src: /assets/img/posts/2021-05-07-Deep-Learning_Neural-Network_4-Perceptron/preview.jpg
+    path: /assets/img/posts/2021-05-07-Deep-Learning_Neural-Network_4-Perceptron/preview.jpg
 ---
 
 <div style="border:1px solid; padding:10px; margin-bottom: 20px; width: 100%; text-align: center;">

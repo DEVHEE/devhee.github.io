@@ -6,7 +6,7 @@ categories: [Electronic Engineering, Semiconductor]
 tags: [electronic engineering, semiconductor]
 math: true
 image:
-    src: /assets/img/posts/2021-07-19-Electronic-Engineering_Semiconductor_1일차-반독스-수강인증/preview.jpg
+    path: /assets/img/posts/2021-07-19-Electronic-Engineering_Semiconductor_1일차-반독스-수강인증/preview.jpg
 ---
 
 # **[1일차] 반독스 수강인증**

@@ -6,7 +6,7 @@ categories: [Deep Learning, Neural Network]
 tags: [deep learning, neural network, least xquares, prediction, artificial intelligence]
 math: true
 image:
-    src: /assets/img/posts/2021-05-06-Deep-Learning_Neural-Network_3-Method-of-Least-Squares/preview.jpg
+    path: /assets/img/posts/2021-05-06-Deep-Learning_Neural-Network_3-Method-of-Least-Squares/preview.jpg
 ---
 
 <div style="border:1px solid; padding:10px; margin-bottom: 20px; width: 100%; text-align: center;">

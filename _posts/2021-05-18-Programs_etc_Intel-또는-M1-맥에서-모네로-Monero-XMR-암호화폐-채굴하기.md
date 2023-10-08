@@ -5,7 +5,7 @@ date: 2021-05-18 09:40:16 +0900
 categories: [Programs, etc]
 tags: [program, coding, mining, monero, xmr, cryptocurrency, intel, m1, mac, moneroocean]
 image:
-    src: /assets/img/posts/2021-05-18-Programs_etc_Intel-또는-M1-맥에서-모네로-Monero-XMR-암호화폐-채굴하기/preview.jpeg
+    path: /assets/img/posts/2021-05-18-Programs_etc_Intel-또는-M1-맥에서-모네로-Monero-XMR-암호화폐-채굴하기/preview.jpeg
 ---
 
 # **모네로(Monero XMR)란**

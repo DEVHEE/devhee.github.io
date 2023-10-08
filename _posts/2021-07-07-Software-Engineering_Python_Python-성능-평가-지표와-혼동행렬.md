@@ -6,7 +6,7 @@ categories: [Software Engineering, Python]
 tags: [software engineering, software, python, regression, performance, measure]
 math: true
 image:
-    src: /assets/img/posts/2021-07-07-Software-Engineering_Python_Python-성능-평가-지표와-혼동행렬/preview.jpg
+    path: /assets/img/posts/2021-07-07-Software-Engineering_Python_Python-성능-평가-지표와-혼동행렬/preview.jpg
 ---
 
 # **개요**
