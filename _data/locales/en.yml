@@ -18,6 +18,7 @@ tabs:
   #####
   portfolio: Portfolio
   memory: Memory Archive
+  vsco: VSCO
 
 # the text displayed in the search bar & search results
 search:
