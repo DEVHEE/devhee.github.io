@@ -15,7 +15,9 @@ tabs:
   tags: Tags
   archives: Archives
   about: About
+  #####
   portfolio: Portfolio
+  memory: Memory Archive
 
 # the text displayed in the search bar & search results
 search:

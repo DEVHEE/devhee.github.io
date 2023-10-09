@@ -52,6 +52,13 @@
           <span>{{ site.data.locales[include.lang].tabs.portfolio | upcase }}</span>
         </a>
       </li>
+
+      <li class="nav-item{% if page.layout == 'memory' %}{{ " active" }}{% endif %}">
+        <a href="https://memory.kimdonghee.dev" target="_blank" class="nav-link">
+          <i class="fa-fw fas fa-archive"></i>
+          <span>{{ site.data.locales[include.lang].tabs.memory | upcase }}</span>
+        </a>
+      </li>
     </ul>
   </nav>
 
