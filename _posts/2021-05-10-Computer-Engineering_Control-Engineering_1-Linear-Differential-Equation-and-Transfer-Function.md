@@ -13,10 +13,6 @@ image:
 <b style="font-size: 0.85em;">수업 내용 보호를 위해 일부 생략된 내용이 있을 수 있습니다.</b><br>
 </div>
 
-<div style="border:1px solid; padding:10px; margin-bottom: 20px; width: 100%; text-align: center;">
-<b style="font-size: 0.85em;">글, 그림 및 수식이 많아 불러오는데 시간이 다소 걸릴 수 있습니다.</b><br>
-</div>
-
 # **1. Linear Differential Equation and Transfer Function**
 
 ## **1.1. Differential Equation and Transfer Function**
