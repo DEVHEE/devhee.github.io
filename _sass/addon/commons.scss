@@ -166,7 +166,7 @@ i {
   top: 2rem;
   transition: top 0.2s ease-in-out;
   margin-top: 3rem;
-  margin-bottom: 4rem;
+  margin-bottom: 3rem;
 
   &:only-child {
     position: -webkit-sticky;
@@ -178,7 +178,7 @@ i {
     border-left: 1px solid var(--main-border-color);
 
     &:not(:last-child) {
-      margin-bottom: 4rem;
+      margin-bottom: 3rem;
     }
   }
 
