@@ -63,6 +63,13 @@
           <span>{{ site.data.locales[include.lang].tabs.memory | upcase }}</span>
         </a>
       </li>
+
+      <li class="nav-item{% if page.layout == 'vsco' %}{{ " active" }}{% endif %}">
+        <a href="https://vsco.co/hi-ka-ri-1119" target="_blank" class="nav-link">
+          <i class="fa-fw fas fa-camera"></i>
+          <span>{{ site.data.locales[include.lang].tabs.vsco | upcase }}</span>
+        </a>
+      </li>
     </ul>
   </nav>
 
