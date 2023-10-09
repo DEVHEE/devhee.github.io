@@ -366,3 +366,10 @@ h1 + .post-meta {
     margin-right: -0.5rem;
   }
 }
+
+/********** CUSTOM *********/
+p:has(em) {
+  text-align: center;
+  font-weight: bold;
+  font-size: 0.8em;
+}
