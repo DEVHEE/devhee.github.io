@@ -78,7 +78,7 @@ tail_includes:
     <!-- .post-meta -->
   </header>
 
-  <div class="content">
+  <div class="content" id="content">
     <div style="padding-bottom: 20px;">
     <script>
         if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
@@ -153,3 +153,30 @@ tail_includes:
   </div>
   <!-- div.post-tail-wrapper -->
 </article>
+
+<script src="/assets/js/etc/disableclick.js"></script>
+<script src="/assets/js/etc/disablef12.js"></script>
+
+<noscript>
+    <meta http-equiv='refresh' content='1; url=about:blank#blocked'>
+    <!-- <style type="text/css">
+        .row {display:none;}
+        .noscriptmsg {text-align: center; padding-top: 30%;}
+    </style>
+    <div class="noscriptmsg">
+        Hey, you don't have javascript enabled. Good luck with that. lol
+    </div> -->
+</noscript>
+
+<style>
+.content
+{
+  -ms-user-select: none; 
+  -moz-user-select: -moz-none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -webkit-touch-callout:none;
+  user-select: none;
+}
+
+</style>
