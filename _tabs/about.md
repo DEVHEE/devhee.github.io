@@ -14,12 +14,14 @@ order: 4
 > Please refer to the [KIM DONGHEE PORTFOLIO](https://portfolio.kimdonghee.dev) for details.
 {: .prompt-tip }
 
-
+- EMAIL: hello@kimdonghee.dev
 
 ## ABOUT ME
 
 **Hey There! I am KIM DONGHEE, a passionate Engineer/Developer from Seoul, Republic of Korea.**
 Currently, I am studying at Kokushikan University (School of Science and Engineering), Tokyo, Japan. Majoring in Electronics and Informatics.
+
+- Chapter
 
 ## TALKING ABOUT PERSONAL STUFFS
 
