@@ -30,6 +30,9 @@ Passion
 : I am interested in Semiconductor, Electronic Control, Embedded System and Autonomous Driving Artificial Intelligence, and I am studying and exploring with passion.
 
 Goal
+: My dream is to make a better world through artificial intelligence and electronics. To be exact, I want to develop better technology for self-driving cars. Furthermore, I want to work for Google. The higher the dream, the better, right? :)
+
+Favorite
 : I like to learn various science and techniques. I also like to make and research things myself. Enjoy attending lectures or attending conferences and communities of interest.
 
 Pursuit
