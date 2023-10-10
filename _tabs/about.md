@@ -8,10 +8,10 @@ order: 4
 이 기술블로그는 저의 개발 및 연구 프로젝트에 있어서 그 과정과 시행착오에 대해 기록하기 위함입니다. 제가 보고, 듣고, 공부하는 것들을 기록함으로써 스스로의 성장 과정을 돌아보고 이를 다음 단계를 위한 초석으로 삼고자합니다. 또한 노하우를 공유해 저와 같은 사람들이 더 좋은 과학기술을 개발할 수 있도록 도움을 주기 위한 목적도 있습니다. 대학 수업 내용을 요약하여 제 학업에 대한 역량도 키우고자합니다.
 -->
 
-> <kbd>KIM DONGEE TECH BLOG</kbd> is to **record the process and trial and error in my development and research projects**. By recording what I see, hear, and study, I want to **look back on my own growth process** and make it a cornerstone for the next step. It also aims to share know-how to **help people like me develop better science and technology**. I would like to summarize the contents of the college class to **improve my academic ability**.
+> <kbd>KIM DONGHEE TECH BLOG</kbd> is to **record the process and trial and error in my development and research projects**. By recording what I see, hear, and study, I want to **look back on my own growth process** and make it a cornerstone for the next step. It also aims to share know-how to **help people like me develop better science and technology**. I would like to summarize the contents of the college class to **improve my academic ability**.
 {: .prompt-info }
 
-> Please refer to the [<kbd>KIM DONGEE PORTFOLIO</kbd>](https://jekyllrb.com/docs/front-matter/) for details
+> Please refer to the [KIM DONGHEE PORTFOLIO](https://portfolio.kimdonghee.dev) for details.
 {: .prompt-tip }
 
 
