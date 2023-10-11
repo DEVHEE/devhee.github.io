@@ -49,6 +49,9 @@ meta: We’ll find a way. We always have. -Cooper
 not_found:
   statment: Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
 
+offline:
+  statment: Oops! You are not connected to the network.
+
 notification:
   update_found: A new version of content is available.
   update: Update
