@@ -1,7 +1,7 @@
 ---
 title: Fundamentals / 자율주행자동차 - 1. 개요
 author: kimdonghee
-date: 2023-10-11 23:16:28 +0900
+date: 2023-10-10 23:16:28 +0900
 categories: [Self-Driving Vehicle, Fundamentals]
 tags: [self-driving vehicle, ai]
 image:
