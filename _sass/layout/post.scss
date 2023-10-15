@@ -2,6 +2,13 @@
   Post-specific style
 */
 
+/********** CUSTOM *********/
+p:has(em) {
+  text-align: center !important;
+  font-weight: bold !important;
+  font-size: 0.8em !important;
+}
+
 @mixin btn-sharing-color($light-color, $important: false) {
   @if $important {
     color: var(--btn-share-color, $light-color) !important;
@@ -365,11 +372,4 @@ h1 + .post-meta {
     margin-left: -0.5rem;
     margin-right: -0.5rem;
   }
-}
-
-/********** CUSTOM *********/
-p:has(em) {
-  text-align: center;
-  font-weight: bold;
-  font-size: 0.8em;
 }
